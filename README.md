@@ -1,16 +1,9 @@
-# module8_live_test
+# Module8 live test
 
-A new Flutter project.
+<p align="center">
+  <img src="https://github.com/HasibuliT/Module8_live_test/assets/66546794/d259dc4c-8065-49d8-8c63-ad678d3043f5" width="400" height="720"/>
+</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="https://github.com/HasibuliT/Module8_live_test/assets/66546794/0076bd1e-a31c-4f8f-977c-06322eec40ce" width="400" height="720"/>
+</p>
