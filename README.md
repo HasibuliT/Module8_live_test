@@ -1,7 +1,5 @@
 # Module8 live test
 
-<p style="text-align: center;"># Module8 live test</p>
-
 <p align="center">
   <img src="https://github.com/HasibuliT/Module8_live_test/assets/66546794/0076bd1e-a31c-4f8f-977c-06322eec40ce" width="400" height="720"/>
 </p>
